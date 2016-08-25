@@ -1,0 +1,57 @@
+﻿[
+  {
+    "fileName": "Young'sLiteralTranslation.xml",
+    "name": "Young’s Literal Translation",
+    "shortName": "YLT",
+    "date": "1898",
+    "langCode": "en",
+    "isDefault": false
+  },
+  {
+    "fileName": "ModernKJV.xml",
+    "name": "Modern King James Version",
+    "date": "1963",
+    "langCode": "en",
+    "isDefault":  false
+  },
+  {
+    "fileName": "FrenchDarby.xml",
+    "name": "Louis Segond",
+    "shortName": "FRDBY",
+    "date": "1885",
+    "langCode": "fr",
+    "isDefault": false
+  },
+  {
+    "fileName": "KoreanBibleWoorimal.xml",
+    "name": "한국어 성경",
+    "shortName": "KBW",
+    "date": "0",
+    "langCode": "ko",
+    "isDefault": true
+  },
+  {
+    "fileName": "KoreanHyeondaeeoBible.xml",
+    "name": "현대인의 성경",
+    "shortName": "KHB",
+    "date": "0",
+    "langCode": "ko",
+    "isDefault": false
+  },
+  {
+    "fileName": "KoreanPyojunsaeBible.xml",
+    "name": "한국어 성경 Pyojunsae",
+    "shortName": "KPB",
+    "date": "0",
+    "langCode": "ko",
+    "isDefault": false
+  },
+  {
+    "fileName": "KoreanRentierBible.xml",
+    "name": "한국어 성경 Rentier",
+    "shortName": "KRB",
+    "date": "0",
+    "langCode": "ko",
+    "isDefault": false
+  }
+]
