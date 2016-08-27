@@ -7,6 +7,13 @@
     "isDefault": false
   },
   {
+    "fileName": "TestBible.xml",
+    "shortName": "TBX",
+    "date": "2016",
+    "langCode": "zh",
+    "isDefault": false
+  },
+  {
     "fileName": "ModernKJV.xml",
     "name": "Modern King James Version",
     "date": "1963",
