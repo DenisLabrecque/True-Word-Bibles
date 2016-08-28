@@ -10,13 +10,14 @@
   {
     "fileName": "ModernKJV.xml",
     "name": "Modern King James Version",
+    "shortName": "MKJV",
     "date": "1963",
     "langCode": "en",
     "isDefault":  false
   },
   {
     "fileName": "FrenchDarby.xml",
-    "name": "Louis Segond",
+    "name": "La Bible Darby",
     "shortName": "FRDBY",
     "date": "1885",
     "langCode": "fr",
