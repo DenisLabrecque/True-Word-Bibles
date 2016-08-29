@@ -1,13 +1,5 @@
 ﻿[
   {
-    "fileName": "Young'sLiteralTranslation.xml",
-    "name": "Young’s Literal Translation",
-    "shortName": "YLT",
-    "date": "1898",
-    "langCode": "en",
-    "isDefault": false
-  },
-  {
     "fileName": "ModernKJV.xml",
     "name": "Modern King James Version",
     "shortName": "MKJV",
@@ -20,6 +12,22 @@
     "name": "New King James Version",
     "shortName": "NKJV",
     "date": "1982",
+    "langCode": "en",
+    "isDefault": false
+  },
+  {
+    "fileName": "Young'sLiteralTranslation.xml",
+    "name": "Young’s Literal Translation",
+    "shortName": "YLT",
+    "date": "1898",
+    "langCode": "en",
+    "isDefault": false
+  },
+  {
+    "fileName": "LiteralTranslationofHolyBible.xml",
+    "name": "Green’s Literal Translation",
+    "shortName": "LITV",
+    "date": "1985",
     "langCode": "en",
     "isDefault": false
   },
