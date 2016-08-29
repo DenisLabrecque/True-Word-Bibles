@@ -13,6 +13,14 @@
     "shortName": "MKJV",
     "date": "1963",
     "langCode": "en",
+    "isDefault": false
+  },
+  {
+    "fileName": "NewKJV",
+    "name": "New King James Version",
+    "shortName": "NKJV",
+    "date": "1982",
+    "langCode": "en",
     "isDefault":  false
   },
   {
@@ -25,8 +33,8 @@
   },
   {
     "fileName": "KoreanBibleWoorimal.xml",
-    "name": "한국어 성경",
-    "shortName": "KBW",
+    "name": "우리말 성경",
+    "shortName": "KWB",
     "date": "0",
     "langCode": "ko",
     "isDefault": true
