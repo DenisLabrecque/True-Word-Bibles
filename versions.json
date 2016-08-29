@@ -21,13 +21,21 @@
     "shortName": "NKJV",
     "date": "1982",
     "langCode": "en",
-    "isDefault":  false
+    "isDefault": false
   },
   {
     "fileName": "FrenchDarby.xml",
     "name": "La Bible Darby",
     "shortName": "FRDBY",
     "date": "1885",
+    "langCode": "fr",
+    "isDefault": false
+  },
+  {
+    "fileName": "Ostervald.xml",
+    "name": "La Bible Ostervald",
+    "shortName": "OST",
+    "date": "1877",
     "langCode": "fr",
     "isDefault": false
   },
