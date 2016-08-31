@@ -31,6 +31,7 @@
     "langCode": "en",
     "isDefault": false
   },
+
   {
     "fileName": "FrenchDarby.xml",
     "name": "La Bible Darby",
@@ -47,6 +48,7 @@
     "langCode": "fr",
     "isDefault": false
   },
+
   {
     "fileName": "KoreanBibleWoorimal.xml",
     "name": "우리말 성경",
@@ -77,6 +79,15 @@
     "shortName": "KRB",
     "date": "1961",
     "langCode": "ko",
+    "isDefault": false
+  },
+
+  {
+    "fileName": "RussianSynodal.xml",
+    "name": "Синодальный перевод",
+    "shortName": "RUSV",
+    "date": "1876",
+    "langCode": "ru",
     "isDefault": false
   }
 ]
