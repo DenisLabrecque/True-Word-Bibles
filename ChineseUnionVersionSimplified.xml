@@ -1,7 +1,9 @@
 <?xml version="1.0"?>
 <!--Chinese Union Version Simplified-->
 <book name="和合本修訂版" date="2010" shortname="RCUV" language="zh" isdefault="false">  
-  <volume n="1" name="创世记">    <chapter n="1">      <li n="1"> ＜神的创造＞
+  <volume n="1" name="创世记">    
+    <chapter n="1">      
+      <li n="1"> ＜神的创造＞
 起初，　神创造天地。 </li>
       <li n="2"> 地是空虚混沌，渊面黑暗；　神的灵运行在水面上。 </li>
       <li n="3"> 　神说：“要有光”，就有了光。 </li>
