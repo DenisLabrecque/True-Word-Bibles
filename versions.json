@@ -124,5 +124,14 @@
     "date": "0",
     "langCode": "hi",
     "isDefault": false
+  },
+
+  {
+    "fileName": "ModernHebrewBible.xml",
+    "name": "התנך העברי המודרני",
+    "shortName": "MHB",
+    "date": "0",
+    "langCode": "he",
+    "isDefault": false
   }
 ]
