@@ -106,5 +106,23 @@
     "date": "2010",
     "langCode": "zh",
     "isDefault": false
+  },
+
+  {
+    "fileName": "JapaneseBible.xml",
+    "name": "口語訳聖書",
+    "shortName": "JA1955",
+    "date": "1955",
+    "langCode": "ja",
+    "isDefault": false
+  },
+
+  {
+    "fileName": "HindiBibleBSI.xml",
+    "name": "हिन्दी स्टडी बाइबल",
+    "shortName": "HINDI",
+    "date": "0",
+    "langCode": "hi",
+    "isDefault": false
   }
 ]
