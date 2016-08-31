@@ -88,6 +88,23 @@
     "shortName": "RUSV",
     "date": "1876",
     "langCode": "ru",
+    "isDefault": true
+  },
+
+  {
+    "fileName": "ChineseUnionVersionTraditional.xml",
+    "name": "和合本",
+    "shortName": "CUV",
+    "date": "1919",
+    "langCode": "zh",
+    "isDefault": true
+  },
+  {
+    "fileName": "ChineseUnionVersionSimplified.xml",
+    "name": "和ì本修訂版",
+    "shortName": "RCUV",
+    "date": "2010",
+    "langCode": "zh",
     "isDefault": false
   }
 ]
