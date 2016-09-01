@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0"?>
 <!--Chinese Union Version Traditional-->
 <book name="和合本" date="1919" shortname="CUV" language="zh" isdefault="true">  
-  <volume n="1" name="創世記">    <chapter n="1">      <li n="1"> ＜神的創造＞
+  <volume n="1" name="創世記">    
+    <chapter n="1">      
+      <li n="1"> ＜神的創造＞
 起初，　神創造天地。 </li>
       <li n="2"> 地是空虛混沌，淵面黑暗；　神的靈運行在水面上。 </li>
       <li n="3"> 　神說：「要有光」，就有了光。 </li>

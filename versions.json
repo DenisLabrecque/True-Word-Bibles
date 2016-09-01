@@ -119,19 +119,10 @@
 
   {
     "fileName": "HindiBibleBSI.xml",
-    "name": "हिन्दी स्टडी बाइबल",
+    "name": "पवित्र बाइबिल",
     "shortName": "HINDI",
     "date": "0",
     "langCode": "hi",
-    "isDefault": false
-  },
-
-  {
-    "fileName": "ModernHebrewBible.xml",
-    "name": "התנך העברי המודרני",
-    "shortName": "MHB",
-    "date": "0",
-    "langCode": "he",
     "isDefault": false
   }
 ]
