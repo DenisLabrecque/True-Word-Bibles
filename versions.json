@@ -124,5 +124,14 @@
     "date": "0",
     "langCode": "hi",
     "isDefault": true
+  },
+
+  {
+    "fileName": "HungarianVersion.xml",
+    "name": "Hungarian Bible",
+    "shortName": "HUNG",
+    "date": "0",
+    "langCode": "hu",
+    "isDefault": true
   }
 ]
