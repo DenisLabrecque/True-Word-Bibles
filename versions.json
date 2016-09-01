@@ -114,7 +114,7 @@
     "shortName": "JA1955",
     "date": "1955",
     "langCode": "ja",
-    "isDefault": false
+    "isDefault": true
   },
 
   {
@@ -123,6 +123,6 @@
     "shortName": "HINDI",
     "date": "0",
     "langCode": "hi",
-    "isDefault": false
+    "isDefault": true
   }
 ]
