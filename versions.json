@@ -126,12 +126,20 @@
     "isDefault": true
   },
 
-  {
-    "fileName": "HungarianVersion.xml",
-    "name": "Hungarian Bible",
-    "shortName": "HUNG",
-    "date": "0",
-    "langCode": "hu",
-    "isDefault": true
-  }
+   {
+      "fileName": "HungarianVersion.xml",
+      "name": "Károli Fordítása",
+      "shortName": "KAR",
+      "date": "1590",
+      "langCode": "hu",
+      "isDefault": true
+   },
+   {
+      "fileName": "HungarianMagyarBiblia.xml",
+      "name": "Magyar Újfordítású",
+      "shortName": "HUNB",
+      "date": "1990",
+      "langCode": "hu",
+      "isDefault": false
+   }
 ]
